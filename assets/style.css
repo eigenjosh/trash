@@ -1,10 +1,12 @@
 .sidebar{
-    
+
 }
 
 .related-article{
 
 }
-div{
-    display: inline;
+
+/*BOX MODEL*/
+img{
+    width: 50%
 }
